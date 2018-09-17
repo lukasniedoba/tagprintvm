@@ -1,0 +1,3 @@
+[submodule "app/Tag-Print"]
+	path = app/Tag-Print
+	url = https://github.com/CyrilSup/Tag-Print.git
